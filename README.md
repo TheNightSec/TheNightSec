@@ -2,7 +2,7 @@
 <h3 align="center">Asia-based InfoSec enthusiast</h3>
 
 - 💬 Ask me about **Networking, Python**
-- 📫 How to reach me **abdullah@rizzcode.com**
+- 📫 How to reach me **abdullahzafs@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
